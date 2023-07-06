@@ -1,0 +1,89 @@
+.tilapia-button {
+  width: 50px;
+  height: 20px;
+  font-size: 7px;
+  background-color: rosybrown;
+  color: black;
+  border: none;
+  border-radius: 10px;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  cursor: pointer;
+}
+
+.title-tilapia {
+  color: darkcyan;
+  font-size: 30px;
+  margin: auto;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.tilapia-img {
+  margin: auto;
+  border: 2px solid gray;
+}
+
+.tilapia-description {
+  color: rosybrown;
+  font-size: 20px;
+}
+
+.tilapia-list {
+  font-size: 10px;
+  margin: auto;
+}
+
+.tilapia-step {
+  font-size: 10px;
+  padding-right: 700px;
+  line-height: 20px;
+}
+
+.noodles-button {
+  width: 50px;
+  height: 20px;
+  font-size: 7px;
+  background-color: rosybrown;
+  color: black;
+  border: none;
+  border-radius: 10px;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  cursor: pointer;
+}
+
+.title-noodles {
+  color: darkcyan;
+  font-size: 30px;
+  margin: auto;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.noodles-img {
+  margin: auto;
+  border: 2px solid gray;
+}
+
+.noodles-description {
+  color: rosybrown;
+  font-size: 20px;
+}
+
+.noodles-list {
+  font-size: 10px;
+  margin: auto;
+}
+
+.noodles-step {
+  font-size: 10px;
+  padding-right: 700px;
+  line-height: 20px;
+}
+
+li {
+  margin-bottom: 10px;
+}
+
+body {
+  background-color: beige;
+}
